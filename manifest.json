@@ -1,0 +1,6 @@
+{
+  "name": "polymer-webpack-typescript",
+  "short_name": "polymer-webpack-typescript",
+  "start_url": "/",
+  "display": "standalone"
+}

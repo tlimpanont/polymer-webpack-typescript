@@ -1,0 +1,1 @@
+import './polymer-webpack-typescript-app/app';
